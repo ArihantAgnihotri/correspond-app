@@ -8,7 +8,8 @@
 - Easy interconnectivity by a simple key
 - Multiple people can collaborate on a single project
 - Live response
-- A comprehensive text editor
+- A full-fledged comprehensive text editor
+- Autosaves data every 2 seconds for maximum reliability
 
 ## Tech-Stack Used -
 
