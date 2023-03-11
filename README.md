@@ -9,7 +9,7 @@
 - Multiple people can collaborate on a single project
 - Live response
 - A full-fledged comprehensive text editor
-- Autosaves data every 2 seconds for maximum reliability
+- Autosaves data every 5 seconds for maximum reliability
 
 ## Tech-Stack Used -
 
